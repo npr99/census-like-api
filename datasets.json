@@ -1,0 +1,10 @@
+[
+  {
+    "id": "demo_states",
+    "title": "Demo: State-level population and income",
+    "geographies": ["state"],
+    "years": ["2023","2024"],
+    "variables": ["NAME","POP","MEDIAN_INCOME"],
+    "source": "sample_data.csv"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "POP": { "label": "Total population", "concept": "Population", "type": "int" },
+  "MEDIAN_INCOME": { "label": "Median household income (USD)", "concept": "Income", "type": "int" },
+  "NAME": { "label": "Geographic name", "concept": "Label", "type": "string" }
+}
